@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "files.autoSaveDelay": 10,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "auto-rename-tag.activationOnLanguage": ["html", "css"],
+    "liveServer.settings.multiRootWorkspaceName": "hotel_website",
+    "editor.linkedEditing": true,
+    "notebook.undoRedoPerCell": true,
+    "editor.wordWrap": "on",
+    "prettier.proseWrap": "always",
+    "htmltagwrap.tag": "p",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.renderWhitespace": "none",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "solid"
+  }
+}
