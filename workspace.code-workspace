@@ -14,7 +14,7 @@
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
     "auto-rename-tag.activationOnLanguage": ["html", "css"],
-    "liveServer.settings.multiRootWorkspaceName": "hotel_website",
+    "liveServer.settings.multiRootWorkspaceName": "hotel_bt",
     "editor.linkedEditing": true,
     "notebook.undoRedoPerCell": true,
     "editor.wordWrap": "on",
